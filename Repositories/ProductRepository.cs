@@ -1,12 +1,12 @@
-﻿using Assiment5_MiniAmazonClone.Data;
-using Assiment5_MiniAmazonClone.Interfaces;
-using Assiment5_MiniAmazonClone.Models;
+﻿using MiniAmazonClone.Data;
+using MiniAmazonClone.Interfaces;
+using MiniAmazonClone.Models;
 using Dapper;
 using Microsoft.Data.SqlClient;
 using Microsoft.EntityFrameworkCore;
 using System.Data;
 
-namespace Assiment5_MiniAmazonClone.Repositories
+namespace MiniAmazonClone.Repositories
 {
     public class ProductRepository : IProductRepository
     {

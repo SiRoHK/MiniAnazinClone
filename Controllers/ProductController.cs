@@ -1,11 +1,11 @@
-﻿using Assiment5_MiniAmazonClone.Interfaces;
-using Assiment5_MiniAmazonClone.Models;
-using Assiment5_MiniAmazonClone.Repositories;
+﻿using MiniAmazonClone.Interfaces;
+using MiniAmazonClone.Models;
+using MiniAmazonClone.Repositories;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System.Security.Claims;
 
-namespace Assiment5_MiniAmazonClone.Controllers
+namespace MiniAmazonClone.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]

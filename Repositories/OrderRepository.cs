@@ -1,6 +1,6 @@
-﻿using Assiment5_MiniAmazonClone.Data;
-using Assiment5_MiniAmazonClone.Interfaces;
-using Assiment5_MiniAmazonClone.Models;
+﻿using MiniAmazonClone.Data;
+using MiniAmazonClone.Interfaces;
+using MiniAmazonClone.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace MiniAmazonClone.Repositories

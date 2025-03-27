@@ -1,13 +1,13 @@
-﻿using MiniAnazinClone.Controllers;
-using MiniAmazonClone.Interfaces;
-using Assiment5_MiniAmazonClone.Models;
+﻿using MiniAmazonClone.Interfaces;
+using MiniAmazonClone.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.IdentityModel.Tokens;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
+using MiniAmazonClone.Dtos;
 
-namespace Assiment5_MiniAmazonClone.Controllers
+namespace MiniAmazonClone.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]

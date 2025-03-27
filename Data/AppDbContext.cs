@@ -1,7 +1,7 @@
-﻿using Assiment5_MiniAmazonClone.Models;
+﻿using MiniAmazonClone.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace Assiment5_MiniAmazonClone.Data
+namespace MiniAmazonClone.Data
 {
     public class AppDbContext : DbContext
  

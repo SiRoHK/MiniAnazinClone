@@ -1,4 +1,4 @@
-﻿namespace Assiment5_MiniAmazonClone.Dtos
+﻿namespace MiniAmazonClone.Dtos
 {
     public class OrderCreateModel
     {
