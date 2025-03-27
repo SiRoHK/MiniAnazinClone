@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniAnazinClone", "MiniAnazinClone.csproj", "{CBCBBDAD-DD3E-40A0-8162-1F943045516E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBCBBDAD-DD3E-40A0-8162-1F943045516E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBCBBDAD-DD3E-40A0-8162-1F943045516E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBCBBDAD-DD3E-40A0-8162-1F943045516E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBCBBDAD-DD3E-40A0-8162-1F943045516E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7F4B9FF-D854-4BEC-A3FB-0FCBBC039CD1}
+	EndGlobalSection
+EndGlobal

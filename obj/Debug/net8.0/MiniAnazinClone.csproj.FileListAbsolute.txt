@@ -1,0 +1,7 @@
+C:\Users\SiRo\source\repos\MiniAnazinClone\obj\Debug\net8.0\MiniAnazinClone.csproj.AssemblyReference.cache
+C:\Users\SiRo\source\repos\MiniAnazinClone\obj\Debug\net8.0\MiniAnazinClone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SiRo\source\repos\MiniAnazinClone\obj\Debug\net8.0\MiniAnazinClone.AssemblyInfoInputs.cache
+C:\Users\SiRo\source\repos\MiniAnazinClone\obj\Debug\net8.0\MiniAnazinClone.AssemblyInfo.cs
+C:\Users\SiRo\source\repos\MiniAnazinClone\obj\Debug\net8.0\MiniAnazinClone.csproj.CoreCompileInputs.cache
+C:\Users\SiRo\source\repos\MiniAnazinClone\obj\Debug\net8.0\MiniAnazinClone.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SiRo\source\repos\MiniAnazinClone\obj\Debug\net8.0\MiniAnazinClone.MvcApplicationPartsAssemblyInfo.cache

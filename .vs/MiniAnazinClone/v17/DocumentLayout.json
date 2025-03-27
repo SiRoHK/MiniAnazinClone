@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SiRo\\source\\repos\\MiniAnazinClone\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCBBDAD-DD3E-40A0-8162-1F943045516E}|MiniAnazinClone.csproj|c:\\users\\siro\\source\\repos\\minianazinclone\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBCBBDAD-DD3E-40A0-8162-1F943045516E}|MiniAnazinClone.csproj|solutionrelative:repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCBBDAD-DD3E-40A0-8162-1F943045516E}|MiniAnazinClone.csproj|c:\\users\\siro\\source\\repos\\minianazinclone\\repositories\\dapperrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBCBBDAD-DD3E-40A0-8162-1F943045516E}|MiniAnazinClone.csproj|solutionrelative:repositories\\dapperrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCBBDAD-DD3E-40A0-8162-1F943045516E}|MiniAnazinClone.csproj|c:\\users\\siro\\source\\repos\\minianazinclone\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBCBBDAD-DD3E-40A0-8162-1F943045516E}|MiniAnazinClone.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCBBDAD-DD3E-40A0-8162-1F943045516E}|MiniAnazinClone.csproj|c:\\users\\siro\\source\\repos\\minianazinclone\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBCBBDAD-DD3E-40A0-8162-1F943045516E}|MiniAnazinClone.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCBBDAD-DD3E-40A0-8162-1F943045516E}|MiniAnazinClone.csproj|c:\\users\\siro\\source\\repos\\minianazinclone\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBCBBDAD-DD3E-40A0-8162-1F943045516E}|MiniAnazinClone.csproj|solutionrelative:models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCBBDAD-DD3E-40A0-8162-1F943045516E}|MiniAnazinClone.csproj|c:\\users\\siro\\source\\repos\\minianazinclone\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBCBBDAD-DD3E-40A0-8162-1F943045516E}|MiniAnazinClone.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCBBDAD-DD3E-40A0-8162-1F943045516E}|MiniAnazinClone.csproj|c:\\users\\siro\\source\\repos\\minianazinclone\\interfaces\\idapperrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBCBBDAD-DD3E-40A0-8162-1F943045516E}|MiniAnazinClone.csproj|solutionrelative:interfaces\\idapperrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCBBDAD-DD3E-40A0-8162-1F943045516E}|MiniAnazinClone.csproj|c:\\users\\siro\\source\\repos\\minianazinclone\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBCBBDAD-DD3E-40A0-8162-1F943045516E}|MiniAnazinClone.csproj|solutionrelative:interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCBBDAD-DD3E-40A0-8162-1F943045516E}|MiniAnazinClone.csproj|c:\\users\\siro\\source\\repos\\minianazinclone\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBCBBDAD-DD3E-40A0-8162-1F943045516E}|MiniAnazinClone.csproj|solutionrelative:interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCBBDAD-DD3E-40A0-8162-1F943045516E}|MiniAnazinClone.csproj|c:\\users\\siro\\source\\repos\\minianazinclone\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBCBBDAD-DD3E-40A0-8162-1F943045516E}|MiniAnazinClone.csproj|solutionrelative:interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCBBDAD-DD3E-40A0-8162-1F943045516E}|MiniAnazinClone.csproj|c:\\users\\siro\\source\\repos\\minianazinclone\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBCBBDAD-DD3E-40A0-8162-1F943045516E}|MiniAnazinClone.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCBBDAD-DD3E-40A0-8162-1F943045516E}|MiniAnazinClone.csproj|c:\\users\\siro\\source\\repos\\minianazinclone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBCBBDAD-DD3E-40A0-8162-1F943045516E}|MiniAnazinClone.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCBBDAD-DD3E-40A0-8162-1F943045516E}|MiniAnazinClone.csproj|c:\\users\\siro\\source\\repos\\minianazinclone\\minianazinclone.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CBCBBDAD-DD3E-40A0-8162-1F943045516E}|MiniAnazinClone.csproj|solutionrelative:minianazinclone.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCBBDAD-DD3E-40A0-8162-1F943045516E}|MiniAnazinClone.csproj|c:\\users\\siro\\source\\repos\\minianazinclone\\minianazinclone.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{CBCBBDAD-DD3E-40A0-8162-1F943045516E}|MiniAnazinClone.csproj|solutionrelative:minianazinclone.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCBBDAD-DD3E-40A0-8162-1F943045516E}|MiniAnazinClone.csproj|c:\\users\\siro\\source\\repos\\minianazinclone\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBCBBDAD-DD3E-40A0-8162-1F943045516E}|MiniAnazinClone.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SiRo\\source\\repos\\MiniAnazinClone\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\SiRo\\source\\repos\\MiniAnazinClone\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T20:50:04.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DapperRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SiRo\\source\\repos\\MiniAnazinClone\\Repositories\\DapperRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\DapperRepository.cs",
+              "ToolTip": "C:\\Users\\SiRo\\source\\repos\\MiniAnazinClone\\Repositories\\DapperRepository.cs",
+              "RelativeToolTip": "Repositories\\DapperRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T20:49:52.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\SiRo\\source\\repos\\MiniAnazinClone\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\SiRo\\source\\repos\\MiniAnazinClone\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T20:49:42.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\SiRo\\source\\repos\\MiniAnazinClone\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\SiRo\\source\\repos\\MiniAnazinClone\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T20:49:38.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\SiRo\\source\\repos\\MiniAnazinClone\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\SiRo\\source\\repos\\MiniAnazinClone\\Models\\OrderItem.cs",
+              "RelativeToolTip": "Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T20:49:30.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\SiRo\\source\\repos\\MiniAnazinClone\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Users\\SiRo\\source\\repos\\MiniAnazinClone\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T20:49:26.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SiRo\\source\\repos\\MiniAnazinClone\\Interfaces\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\SiRo\\source\\repos\\MiniAnazinClone\\Interfaces\\IOrderRepository.cs",
+              "RelativeToolTip": "Interfaces\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T20:49:07.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SiRo\\source\\repos\\MiniAnazinClone\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\SiRo\\source\\repos\\MiniAnazinClone\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T20:48:53.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SiRo\\source\\repos\\MiniAnazinClone\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\SiRo\\source\\repos\\MiniAnazinClone\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T20:48:38.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IDapperRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SiRo\\source\\repos\\MiniAnazinClone\\Interfaces\\IDapperRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IDapperRepository.cs",
+              "ToolTip": "C:\\Users\\SiRo\\source\\repos\\MiniAnazinClone\\Interfaces\\IDapperRepository.cs",
+              "RelativeToolTip": "Interfaces\\IDapperRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T20:48:28.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MiniAnazinClone",
+              "DocumentMoniker": "C:\\Users\\SiRo\\source\\repos\\MiniAnazinClone\\MiniAnazinClone.csproj",
+              "RelativeDocumentMoniker": "MiniAnazinClone.csproj",
+              "ToolTip": "C:\\Users\\SiRo\\source\\repos\\MiniAnazinClone\\MiniAnazinClone.csproj",
+              "RelativeToolTip": "MiniAnazinClone.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-27T20:47:39.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\SiRo\\source\\repos\\MiniAnazinClone\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\SiRo\\source\\repos\\MiniAnazinClone\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T20:47:18.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MiniAnazinClone.http",
+              "DocumentMoniker": "C:\\Users\\SiRo\\source\\repos\\MiniAnazinClone\\MiniAnazinClone.http",
+              "RelativeDocumentMoniker": "MiniAnazinClone.http",
+              "ToolTip": "C:\\Users\\SiRo\\source\\repos\\MiniAnazinClone\\MiniAnazinClone.http",
+              "RelativeToolTip": "MiniAnazinClone.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-03-27T20:47:13.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\SiRo\\source\\repos\\MiniAnazinClone\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\SiRo\\source\\repos\\MiniAnazinClone\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T20:45:08.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SiRo\\source\\repos\\MiniAnazinClone\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\SiRo\\source\\repos\\MiniAnazinClone\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T20:44:57.406Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
