@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiniAnazinClone")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1feb9f9dcceec9bcb72a16641b83dff5aca69183")]
 [assembly: System.Reflection.AssemblyProductAttribute("MiniAnazinClone")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiniAnazinClone")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
